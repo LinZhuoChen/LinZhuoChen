@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LinZhuoChen
-- ✨ I am an incoming phd student of NJU-3DV lab, supervised by Prof. Yao Yao.
+- ✨ I am a phd student of NJU-3DV lab, supervised by Prof. Yao Yao.
 - 👀 My research interests include Differential Rendering and Simulation.
 - 📫 More details can be found on my personal website: https://linzhuo.xyz
 - 🤷‍♂️ Welcome to contact me if you have any question.
